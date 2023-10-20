@@ -1,2 +1,2 @@
 # Timeseriesforecasting of bitcoin prediction
- tell the futures values of day wise
+  we choose LSTM model to implement the future value bitcoin price per days
